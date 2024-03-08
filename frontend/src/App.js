@@ -1,9 +1,0 @@
-function App() {
-  return (
-    <div className="p-4 bg-blue-500 text-white">
-      Hello world
-    </div>
-  );
-}
-
-export default App;
